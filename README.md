@@ -1,10 +1,10 @@
-# 🤖 Smart Data Preprocessing Pipeline for Machine Learning Projects
+#  Smart Data Preprocessing Pipeline for Machine Learning Projects
 
 This project provides a complete and reusable **data preprocessing pipeline** for machine learning and data science tasks. It covers key steps such as handling missing values, encoding categorical data, feature scaling, and preparing data for training models.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Load and inspect raw data
 - Handle missing/null values
@@ -15,7 +15,7 @@ This project provides a complete and reusable **data preprocessing pipeline** fo
 
 ---
 
-## 📂 Files
+##  Files
 
 | File | Description |
 |------|-------------|
@@ -26,7 +26,7 @@ This project provides a complete and reusable **data preprocessing pipeline** fo
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Clone the repo**
    ```bash
@@ -48,7 +48,7 @@ This project provides a complete and reusable **data preprocessing pipeline** fo
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3.x
 - Pandas
