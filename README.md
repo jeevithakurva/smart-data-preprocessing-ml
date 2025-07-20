@@ -57,13 +57,3 @@ This project provides a complete and reusable **data preprocessing pipeline** fo
 - Matplotlib / Seaborn
 
 ---
-
-## 🤝 Contribute
-
-Feel free to fork this project and customize it for your own use. Contributions are welcome!
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
